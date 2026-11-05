@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-multi-tender-payments-nuxt",
+  "capabilityKey": "planned:ecommerce:multi-tender-payments",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-multi-tender-payments-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/multi-tender-payments.md",
+  "presentationPlan": "projects/ecommerce/nuxt/multi-tender-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
